@@ -7,3 +7,7 @@
 ## Assignment
 
 [assignment1-basics](assignment1-basics) — Basics (tokenizer, model architecture, optimizer). Covers Lectures 1-2. Source: https://github.com/stanford-cs336/assignment1-basics
+
+## Supplementary material
+
+[karpathy-gpt-tokenizer](karpathy-gpt-tokenizer) — Andrej Karpathy's "Let's build the GPT Tokenizer" video, notebook, and notes. https://youtu.be/zduSFxRajkE
