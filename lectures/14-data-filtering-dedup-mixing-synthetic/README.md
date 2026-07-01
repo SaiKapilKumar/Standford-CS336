@@ -3,3 +3,7 @@
 - **Video**: TBD
 - **Slides**: TBD
 - **Notes**: TBD
+
+## Assignment
+
+Covered by [assignment4-data](../13-data-sources-datasets/assignment4-data), released at Lecture 13.

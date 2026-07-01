@@ -6,6 +6,16 @@ Personal notes for [Stanford CS336](https://cs336.stanford.edu/).
 - Official lectures repo: https://github.com/stanford-cs336/lectures
 - Assignments: https://github.com/stanford-cs336
 
+## Assignments
+
+| # | Title | Covers | Location |
+|---|-------|--------|----------|
+| 1 | Basics | Lectures 1-2 | [lectures/01-overview-tokenization/assignment1-basics](lectures/01-overview-tokenization/assignment1-basics) |
+| 2 | Systems | Lectures 6-8 | [lectures/06-kernels-triton/assignment2-systems](lectures/06-kernels-triton/assignment2-systems) |
+| 3 | Scaling | Lectures 9-11 | [lectures/09-scaling-laws/assignment3-scaling](lectures/09-scaling-laws/assignment3-scaling) |
+| 4 | Data | Lectures 13-14 | [lectures/13-data-sources-datasets/assignment4-data](lectures/13-data-sources-datasets/assignment4-data) |
+| 5 | Alignment and Reasoning RL | Lectures 15-17 | [lectures/15-mid-post-training-sft-rlhf/assignment5-alignment](lectures/15-mid-post-training-sft-rlhf/assignment5-alignment) |
+
 ## Lectures
 
 | # | Topic | Folder |
